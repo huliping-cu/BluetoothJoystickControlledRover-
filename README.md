@@ -1,2 +1,2 @@
-# BluetoothJoystickControlledRover-
-senior design project
+# BluetoothJoystickControlledRover
+senior design project for EE BS
